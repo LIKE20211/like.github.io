@@ -42,8 +42,5 @@
 
 ---
 
-#### ⚡ **GitHub 활동 배지**
-당신의 활동도와 기여도를 보여줍니다.
-
 ![GitHub Metrics](https://metrics.lecoq.io/LIKE20211)
 
