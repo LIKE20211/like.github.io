@@ -41,6 +41,3 @@
 제 프로젝트에 관심이 있거나 개선 사항이 있다면, **Issue** 또는 **Pull Request**를 통해 기여해 주세요! 함께 프로젝트를 개선하고 개발 효율성을 높여봅시다!
 
 ---
-
-![GitHub Metrics](https://metrics.lecoq.io/LIKE20211)
-
